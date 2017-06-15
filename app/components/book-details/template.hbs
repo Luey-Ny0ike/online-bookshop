@@ -1,1 +1,7 @@
-{{yield}}
+{{book.author}}, {{book.title}}, {{book.price}},<br> {{book.synopsis}},
+<p><img src={{book.image}} alt={{book.title}}></p>
+<ul>
+  {{#each model as |book|}}
+  {{book-tile book=book}}
+  {{/each}}
+</ul>

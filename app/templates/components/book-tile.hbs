@@ -1,4 +1,4 @@
 <li>
-  {{book.author}}-{{book.title}}
+  {{#link-to 'book' book.id}}{{book.author}}-{{book.title}}{{/link-to}}
   <p><img src={{book.image}} alt={{book.title}}></p>
 </li>
