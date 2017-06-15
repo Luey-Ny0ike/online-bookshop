@@ -1,0 +1,42 @@
+{ "books": [{
+"image":"https://www.google.com/imgres?imgurl=http%3A%2F%2Fwww.moonindeep.com%2Fimages%2Fmoonindeep_cover1_high.jpg&imgrefurl=http%3A%2F%2Fwww.moonindeep.com%2Fmedia.html&docid=unilIIzQfCPuqM&tbnid=YJFsgQXT4Z_pXM%3A&vet=10ahUKEwipkYD_vL3UAhVlKcAKHbQ0A7YQMwiiASgcMBw..i&w=1907&h=2615&bih=678&biw=1301&q=novel%20title%20images&ved=0ahUKEwipkYD_vL3UAhVlKcAKHbQ0A7YQMwiiASgcMBw&iact=mrc&uact=8",
+"title":"Best book you'll ever read",
+"author":"Donna Wanjiru",
+"pages":212,
+"synopsis":""
+}, {
+  "image":"https://www.google.com/imgres?imgurl=http%3A%2F%2Fwww.moonindeep.com%2Fimages%2Fmoonindeep_cover1_high.jpg&imgrefurl=http%3A%2F%2Fwww.moonindeep.com%2Fmedia.html&docid=unilIIzQfCPuqM&tbnid=YJFsgQXT4Z_pXM%3A&vet=10ahUKEwipkYD_vL3UAhVlKcAKHbQ0A7YQMwiiASgcMBw..i&w=1907&h=2615&bih=678&biw=1301&q=novel%20title%20images&ved=0ahUKEwipkYD_vL3UAhVlKcAKHbQ0A7YQMwiiASgcMBw&iact=mrc&uact=8",
+  "title":"This is better",
+  "author":"Donna Wanjiru",
+  "pages":212,
+  "synopsis":""
+  },{
+    "image":"https://www.google.com/imgres?imgurl=http%3A%2F%2Fwww.moonindeep.com%2Fimages%2Fmoonindeep_cover1_high.jpg&imgrefurl=http%3A%2F%2Fwww.moonindeep.com%2Fmedia.html&docid=unilIIzQfCPuqM&tbnid=YJFsgQXT4Z_pXM%3A&vet=10ahUKEwipkYD_vL3UAhVlKcAKHbQ0A7YQMwiiASgcMBw..i&w=1907&h=2615&bih=678&biw=1301&q=novel%20title%20images&ved=0ahUKEwipkYD_vL3UAhVlKcAKHbQ0A7YQMwiiASgcMBw&iact=mrc&uact=8",
+    "title":"This is the Best",
+    "author":"Donna Wanjiru",
+    "pages":212,
+    "synopsis":""
+    },{
+      "image":"https://www.google.com/imgres?imgurl=http%3A%2F%2Fwww.moonindeep.com%2Fimages%2Fmoonindeep_cover1_high.jpg&imgrefurl=http%3A%2F%2Fwww.moonindeep.com%2Fmedia.html&docid=unilIIzQfCPuqM&tbnid=YJFsgQXT4Z_pXM%3A&vet=10ahUKEwipkYD_vL3UAhVlKcAKHbQ0A7YQMwiiASgcMBw..i&w=1907&h=2615&bih=678&biw=1301&q=novel%20title%20images&ved=0ahUKEwipkYD_vL3UAhVlKcAKHbQ0A7YQMwiiASgcMBw&iact=mrc&uact=8",
+      "title":"This is better than",
+      "author":"Donna Wanjiru",
+      "pages":212,
+      "synopsis":""
+      }],
+"reviews": [{
+  "name":"Stephen Njoroge",
+  "title":"Best book you'll ever read",
+  "rating":2,
+  "body":""
+  },{
+      "name":"Stephen Njoroge",
+    "title":"Best book you'll ever read",
+    "rating":2,
+    "body":""
+    },{
+        "name":"Stephen Njoroge",
+      "title":"Best book you'll ever read",
+      "rating":2,
+      "body":""
+      }]
+}
