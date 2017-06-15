@@ -22,11 +22,10 @@
     <div class="form-group">
       <label for="price">Price</label> {{input value=author id="price"}}
     </div>
-  </div>
 
         <button {{action 'saveBook'}}>Save</button>
       </form>
     </div>
   {{else}}
     <button {{action 'addNewBook'}}>New Book</button>
-  {{/if}}
+{{/if}}
